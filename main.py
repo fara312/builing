@@ -176,4 +176,8 @@ def main():
     application.run_polling()
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 8f7711bb5a5496536b1d3bc45ceab0f298b686b2
